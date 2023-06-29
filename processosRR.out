@@ -1,0 +1,1322 @@
+Tempo Corrente: 0, QUANTUM = 10
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 20
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 1, QUANTUM = 9
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 19
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 2, QUANTUM = 8
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 18
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 3, QUANTUM = 7
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 17
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 4, QUANTUM = 6
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 16
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 5, QUANTUM = 5
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 15
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 6, QUANTUM = 4
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 14
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 7, QUANTUM = 3
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 13
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 8, QUANTUM = 2
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 12
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 9, QUANTUM = 1
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 11
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 10
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 11
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 11, QUANTUM = 10
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 13
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 12, QUANTUM = 9
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 12
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 13, QUANTUM = 8
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 11
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 14, QUANTUM = 7
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 10
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 15, QUANTUM = 6
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 9
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 16, QUANTUM = 5
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 8
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 17, QUANTUM = 4
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 7
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 18, QUANTUM = 3
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 6
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 19, QUANTUM = 2
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 5
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 20, QUANTUM = 1
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 4
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 21
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 4
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 22, QUANTUM = 10
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 30
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 23, QUANTUM = 9
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 29
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 24, QUANTUM = 8
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 28
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 25, QUANTUM = 7
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 27
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 26, QUANTUM = 6
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 26
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 27, QUANTUM = 5
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 25
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 28, QUANTUM = 4
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 24
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 29, QUANTUM = 3
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 23
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 30, QUANTUM = 2
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 22
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 31, QUANTUM = 1
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 21
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 32
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 21
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 33, QUANTUM = 10
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 5
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 34, QUANTUM = 9
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 4
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 35, QUANTUM = 8
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 3
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 36, QUANTUM = 7
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 2
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 37, QUANTUM = 6
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 1
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 38, QUANTUM = 5
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 39, QUANTUM = 4
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 2
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 40, QUANTUM = 10
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 5
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 1
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 41, QUANTUM = 9
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 4
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 0
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 42, QUANTUM = 8
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 3
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 43, QUANTUM = 7
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 2
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 44, QUANTUM = 6
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 1
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 45, QUANTUM = 5
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 46, QUANTUM = 4
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 0
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 47, QUANTUM = 10
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 11
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 48, QUANTUM = 9
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 10
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 49, QUANTUM = 8
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 9
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 50, QUANTUM = 7
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 8
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 51, QUANTUM = 6
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 7
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 52, QUANTUM = 5
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 6
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 53, QUANTUM = 4
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 5
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 54, QUANTUM = 3
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 4
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 55, QUANTUM = 2
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 3
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 56, QUANTUM = 1
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 2
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 57
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 2
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 58, QUANTUM = 10
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 4
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 59, QUANTUM = 9
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 3
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 60, QUANTUM = 8
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 2
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 61, QUANTUM = 7
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 1
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 62, QUANTUM = 6
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 63, QUANTUM = 5
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1, Tempo Restante IO: 4
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 64, QUANTUM = 10
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 21
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1, Tempo Restante IO: 3
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 65, QUANTUM = 9
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 20
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1, Tempo Restante IO: 2
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 66, QUANTUM = 8
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 19
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1, Tempo Restante IO: 1
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 67, QUANTUM = 7
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 18
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1, Tempo Restante IO: 0
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 68, QUANTUM = 6
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 17
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 69, QUANTUM = 5
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 16
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 70, QUANTUM = 4
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 15
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 71, QUANTUM = 3
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 14
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 72, QUANTUM = 2
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 13
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 73, QUANTUM = 1
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 12
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 74
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 12
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 75, QUANTUM = 10
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 76, QUANTUM = 9
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 4
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 77, QUANTUM = 10
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 3
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 78, QUANTUM = 9
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 0, Nome: PROG01, Tempo Admissao: 0, Prioridade: 1
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 2
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 1
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 79, QUANTUM = 10
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 2
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 1
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 80, QUANTUM = 9
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 1
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1, Tempo Restante IO: 0
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 1
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 81, QUANTUM = 8
+Processo em Execucao - PID: 0, Nome: PROG01, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 1
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 82, QUANTUM = 7
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 1, Nome: PROG02, Tempo Admissao: 0, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 0
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 83, QUANTUM = 10
+Processo em Execucao - PID: 1, Nome: PROG02, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 84, QUANTUM = 9
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 85, QUANTUM = 10
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 12
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 86, QUANTUM = 9
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 11
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 87, QUANTUM = 8
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 10
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 88, QUANTUM = 7
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 9
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 89, QUANTUM = 6
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 8
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 90, QUANTUM = 5
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 7
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 91, QUANTUM = 4
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 6
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 92, QUANTUM = 3
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 5
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 93, QUANTUM = 2
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 4
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 94, QUANTUM = 1
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 3
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 95
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 3
+Fila de Prontos
+PID: 2, Nome: PROG10, Tempo Admissao: 5, Prioridade: 1
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 96, QUANTUM = 10
+Processo em Execucao - PID: 2, Nome: PROG10, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 97, QUANTUM = 9
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 98, QUANTUM = 10
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 99, QUANTUM = 9
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 3, Nome: PROG03, Tempo Admissao: 3, Prioridade: 2
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 49
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 100, QUANTUM = 10
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 3
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 48
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 101, QUANTUM = 9
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 2
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 47
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 102, QUANTUM = 8
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 1
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 46
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 103, QUANTUM = 7
+Processo em Execucao - PID: 3, Nome: PROG03, Prioridade: 2, Tempo Restante: 0
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 45
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 104, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 44
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 105, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 43
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 106, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 42
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 107, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 41
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 108, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 40
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 109, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 39
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 110, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 38
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 111, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 37
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 112, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 36
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 113, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 35
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 114, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 34
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 115, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 33
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 116, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 32
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 117, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 31
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 118, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 30
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 119, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 29
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 120, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 28
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 121, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 27
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 122, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 26
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 123, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 25
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 124, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 24
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 125, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 23
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 126, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 22
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 127, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 21
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 128, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 20
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 129, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 19
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 130, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 18
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 131, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 17
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 132, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 16
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 133, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 15
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 134, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 14
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 135, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 13
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 136, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 12
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 137, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 11
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 138, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 10
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 139, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 9
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 140, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 8
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 141, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 7
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 142, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 6
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 143, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 5
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 144, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 4
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 145, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 3
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 146, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 2
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 147, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 1
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 148, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1, Tempo Restante IO: 0
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 149, QUANTUM = 6
+Processo em Execucao - OCIOSO
+Fila de Prontos
+PID: 4, Nome: PROG15, Tempo Admissao: 10, Prioridade: 1
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 150, QUANTUM = 10
+Processo em Execucao - PID: 4, Nome: PROG15, Prioridade: 1, Tempo Restante: 0
+Fila de Prontos
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
+Tempo Corrente: 151, QUANTUM = 9
+Processo em Execucao - OCIOSO
+Fila de Prontos
+Fila de Espera
+
+-----------------------------------------------------------------------------------------
